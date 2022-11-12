@@ -8,6 +8,8 @@ The goal of this project is to provide a quick way to deploy documentation websi
 
 The goal is to make the appearance match EXACTLY the green software foundation docs but instead of being powered by docusaurus quell, emissionless will run everything on the carbonfreed web back to front.
 
+We should also have the option available to run these sites without JavaScript at all making for one of the most powerful, lightweight doc websites on the web that is carbon free / optimized.
+
 <img width="1440" alt="Screen Shot 2022-11-12 at 5 26 04 PM" src="https://user-images.githubusercontent.com/73197190/201497249-4dc6ff4a-acf9-4a8f-b78d-f41154806794.png">
 
 
