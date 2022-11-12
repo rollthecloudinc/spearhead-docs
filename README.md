@@ -5,3 +5,9 @@ SPeaRhead is a starter kit for quickly building and deploying low energy sustain
 # Goal
 
 The goal of this project is to provide a quick way to deploy documentation websites with the theming consistency of the Green Software Foundation doc websites. The difference between their websites though and ours is we pull in all the power of Quell including powerful page creator and module federation capabilities making it possible to embed other applications directly in our docs without dirty ole iframes. Also building pages compeltely in the browser without code changes and necessarily needing to redeploy unless pre-rendering is desired. This spearhead will also provide tailwind support and inline browser editing of html classes via inspector and retained upon page reloads. The complete package built with sustainability at the forefront from front-end to back-end on the rtc carbonfreeed platform.
+
+The goal is to make the appearance match EXACTLY the green software foundation docs but instead of being powered by docusaurus quell, emissionless will run everything on the carbonfreed web.
+
+<img width="1440" alt="Screen Shot 2022-11-12 at 5 26 04 PM" src="https://user-images.githubusercontent.com/73197190/201497249-4dc6ff4a-acf9-4a8f-b78d-f41154806794.png">
+
+
