@@ -53,7 +53,7 @@ testem.log
 Thumbs.db
 
 # environment files
-projects/ipe/src/environments/*
+projects/spear/src/assets/objects/*
 
 # npm config
 .npmrc
