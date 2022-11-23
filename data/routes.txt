@@ -1,2 +1,4 @@
 /pages/create-panel-page
 /test
+/test/manage
+/introduction/manage
