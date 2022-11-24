@@ -1,10 +1,8 @@
-<div class="top-header border-b border-b-stone-300 px-4">
-  <p class="brand text-emerald-700 font-semibold">Spearhead Docs</p>
-</div>
+<div class="top-header border-b border-b-stone-300"></div>
 <div class="top-header-push"></div>
-<div>
-  <div class="outlet-wrapper flex flex-row">
-    <div class="px-2 py-2 sidebar">
+<div fxLayout="column" fxFill>
+  <div class="outlet-wrapper grid grid-cols-[20%_80%] w-full h-64">
+    <div class="px-2 py-2 border-r border-r-stone-300 sidebar">
       <nav>
         <ul class="text-slate-600">
           <li><a class="px-2 py-2 flex hover:bg-neutral-100 hover:text-emerald-700" routerLink="/">Welcome</a></li>
@@ -19,7 +17,7 @@
         </ul>
       </nav>
     </div>
-    <div class="px-4 py-4 border-l border-l-stone-300">
+    <div class="px-4 py-4">
       <router-outlet></router-outlet>
     </div>
   </div>

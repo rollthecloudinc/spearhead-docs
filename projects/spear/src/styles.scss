@@ -13,3 +13,11 @@ ul {
 classifieds-ui-gridless-layout .main-controls {
   border-bottom: none !important;
 }
+
+.flex > .pane-1  {
+  min-width: 30%;
+}
+
+.flex > .pane-1 .pane-0 {
+  position: fixed;
+}

@@ -1,10 +1,30 @@
+.top-header-push {
+  height: 3.75rem;
+}
+
+.brand {
+  line-height: 3.75em;
+}
+
 .outlet-wrapper {
   height: 100%;
 }
 
 .top-header {
   height: 3.75rem; 
-  position: sticky;
+  position: fixed;
   top: 0;
+  width: 100%;
   background-color: white;
 }
+
+.sidebar {
+  min-width: 20%;
+  //position: fixed;
+}
+
+.sidebar nav {
+  position: fixed;
+  width: 19%;
+}
+
