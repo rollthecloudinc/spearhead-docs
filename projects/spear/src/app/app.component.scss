@@ -1,9 +1,16 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;  
+}
+
 .top-header-push {
   height: 3.75rem;
 }
 
 .brand {
   line-height: 3.75em;
+  position: relative;
 }
 
 .outlet-wrapper {
@@ -20,11 +27,14 @@
 
 .sidebar {
   min-width: 20%;
-  //position: fixed;
 }
 
 .sidebar nav {
   position: fixed;
   width: 19%;
+}
+
+footer {
+  background-color: #032629;
 }
 

@@ -21,3 +21,13 @@ classifieds-ui-gridless-layout .main-controls {
 .flex > .pane-1 .pane-0 {
   position: fixed;
 }
+
+classifieds-ui-page-router-link[href*="manage"] {
+  font-weight: 300;
+  padding: 2em 0;
+  display: block;
+}
+
+classifieds-ui-page-router-link[href*="manage"] a:hover {
+  text-decoration: underline;
+}
