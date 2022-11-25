@@ -2,4 +2,4 @@
 
 # Summary
 
-This project is a starter kit for building documentation focused websites that look nearly identical to the [Green Web Foundations](https://learn.greensoftware.foundation/) documentation websites. Carbon free websites are built by combining HEDGE with Quell. Carbon free websites will also combine front and back end emissions with a call to action to contribute to offseting.
+This project is a starter kit for building documentation focused websites that look nearly identical to the [Green Web Foundations](https://learn.greensoftware.foundation/) documentation websites. Carbon free websites are built by combining HEDGE with Quell. Carbon free websites will also combine front and back end emissions with a call to action to contribute to offseting. Carbon free websites also use the very well known TailWindCSS utility lib making theming a pleasure and breeze.
