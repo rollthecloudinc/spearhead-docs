@@ -4,7 +4,7 @@
 
 This project is a starter kit for building documentation focused websites that look nearly identical to the [Green Web Foundations](https://learn.greensoftware.foundation/) documentation websites. Carbon free websites are built by combining HEDGE with Quell. Carbon free websites will also combine front and back end emissions with a call to action to contribute to offseting. Carbon free websites also use the very well known [TailWindCSS](https://tailwindcss.com/) utility lib making theming a pleasure and breeze.
 
-Carbon Free websites can be edited directly in the same application using our low code editor Quell. Editing within the same app eliminates all emissions that would otherwise occur from third party apps like Github editing that lack actionable intelligance for emissions of services.
+Carbon Free websites can be edited directly in the same application using our low code editor Quell. Editing within the same app eliminates all emissions that would otherwise occur from third party apps like Github editing that lack actionable intelligance for emissions of services. Carbon free websites track and monitor electricity and emissions in real time.
 
 <img width="1440" alt="Screen Shot 2022-11-25 at 3 00 52 PM" src="https://user-images.githubusercontent.com/73197190/204050564-f992b256-84a7-4f52-97c3-b0533006df0a.png">
 
