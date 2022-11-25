@@ -1,0 +1,44 @@
+<div class="top-header border-b border-b-stone-300"></div>
+<div class="top-header-push"></div>
+<div fxLayout="column" fxFill>
+  <div class="outlet-wrapper grid grid-cols-[20%_80%] w-full h-64">
+    <div class="px-2 py-2 border-r border-r-stone-300 sidebar">
+      <nav>
+        <ul class="text-slate-600">
+          <li><a class="px-2 py-2 flex hover:bg-neutral-100 hover:text-emerald-700" routerLink="/">Welcome</a></li>
+          <li><a class="px-2 py-2 flex hover:bg-neutral-100 hover:text-emerald-700" routerLink="/introduction">Introduction</a></li>
+          <li><a class="px-2 py-2 flex hover:bg-neutral-100 hover:text-emerald-700" routerLink="/carbon-efficiency">Carbon Efficency</a></li>
+          <li><a class="px-2 py-2 flex hover:bg-neutral-100 hover:text-emerald-700" routerLink="/energy-efficiency">Energy Efficency</a></li>
+          <li><a class="px-2 py-2 flex hover:bg-neutral-100 hover:text-emerald-700" routerLink="/carbon-awareness">Carbon Awareness</a></li>
+          <li><a class="px-2 py-2 flex hover:bg-neutral-100 hover:text-emerald-700" routerLink="/hardware-efficiency">Hardware Efficency</a></li>
+          <li><a class="px-2 py-2 flex hover:bg-neutral-100 hover:text-emerald-700" routerLink="/measurement">Measurement</a></li>
+          <li><a class="px-2 py-2 flex hover:bg-neutral-100 hover:text-emerald-700" routerLink="/climate-commitments">Climate Comittments</a></li>
+          <li><a class="px-2 py-2 flex hover:bg-neutral-100 hover:text-emerald-700" routerLink="/glossary">Glossary</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="px-4 py-4">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+</div>
+<div class="grid-cols-3">
+  <div>
+    <ul>
+      <li>One</li>
+      <li>Two</li>
+    </ul>
+  </div>
+  <div>
+    <ul>
+      <li>One</li>
+      <li>Two</li>
+    </ul>
+  </div>
+  <div>
+    <ul>
+      <li>One</li>
+      <li>Two</li>
+    </ul>
+  </div>
+</div>
