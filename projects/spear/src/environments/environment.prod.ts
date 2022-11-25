@@ -26,15 +26,15 @@ const signingKeys = {
 
 export const environment = {
   production: true,
-  site: 'spearhead',
+  site: 'spearhead-docs',
   apiGatewaySettings: {
-    endpointUrl: 'https://edge.hedge.earth/emissionless/rollthecloudinc/spearhead-objects-prod/shapeshifter',
+    endpointUrl: 'https://edge.hedge.earth/emissionless/rollthecloudinc/spearhead-docs-objects-prod/shapeshifter',
   },
   mediaSettings: {
     endpointUrl: 'https://edge.hedge.earth/emissionless/media',
     cloudinaryUrl: 'https://api.cloudinary.com/v1_1/dj4vvkgzw',
     uploadPreset: 'i0hm4opm',
-    imageUrl: 'https://edge.hedge.earth/emissionless/spearhead',
+    imageUrl: 'https://edge.hedge.earth/emissionless/spearhead-docs-prod',
     bucket: 'classifieds-ui-prod',
     prefix: 'media/'
   },
@@ -65,7 +65,7 @@ export const environment = {
   panelsSettings: {
     openSearchDomain: 'search-classifieds-ui-prod-o5unofrr3c4qb3ykfrxebh2e4a',
     s3Bucket: 'classifieds-ui-prod',
-    objectsRootUrl: 'https://rollthecloudinc.github.io/spearhead-objects-prod'
+    objectsRootUrl: 'https://rollthecloudinc.github.io/spearhead-docs-objects-prod'
   },
   alienaliasSettings: {
     openSearchDomain: 'search-classifieds-ui-prod-o5unofrr3c4qb3ykfrxebh2e4a'
@@ -79,8 +79,8 @@ export const environment = {
   clientSettings: {
     authority: 'https://sso.druidcloud.io',
     client_id: '37lke0kuqac07fs1mk9mp2h471',
-    redirect_uri: 'https://spearhead.druidcloud.io/auth-callback',
-    silent_redirect_uri: 'https://spearhead.druidcloud.io/silent-refresh.html',
+    redirect_uri: 'https://spearhead-docs.druidcloud.io/auth-callback',
+    silent_redirect_uri: 'https://spearhead-docs.druidcloud.io/silent-refresh.html',
     response_type: "code",
     scope:"openid profile aws.cognito.signin.user.admin ads_api/ads_api taxonomy_api/taxonomy_api chat/chat media_api/media_api profiles_api/profiles_api", /*'ads_api media_api chat IdentityServerApi taxonomy_api api_gateway",*/
     filterProtocolClaims: true,
