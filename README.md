@@ -12,4 +12,6 @@ Carbon Free website pages can be published and edited directly in the same appli
 
 <img width="1440" alt="Screen Shot 2022-11-25 at 3 04 31 PM" src="https://user-images.githubusercontent.com/73197190/204050666-33fb1284-1f3c-4a8f-915b-4ec4748fe9c1.png">
 
-Carbon free websites track and monitor real time electricity and emissions using the Cloud Jewels formula adjusted for grid carbon intensity of back-end cpu processing when publishing and editing pages using Quell.
+Carbon free websites track and monitor real time electricity and emissions using the Cloud Jewels formula adjusted for grid carbon intensity of back-end cpu processing when publishing and editing pages using Quell. Emissions data is recorded inside AWS Open search bringing the full power of AI and machine learning to our finger tips against this data. AI and machine learning can be used to learn about carbon free app emissions to reduce and offset via real time actionable intelligance.
+
+<img width="1440" alt="Screen Shot 2022-11-15 at 7 08 47 AM" src="https://user-images.githubusercontent.com/73197190/204052881-d8e6ab2c-957f-4078-a363-26a612850b0f.png">
