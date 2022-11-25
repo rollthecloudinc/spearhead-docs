@@ -12,4 +12,4 @@ Carbon Free website pages can be published and edited directly in the same appli
 
 <img width="1440" alt="Screen Shot 2022-11-25 at 3 04 31 PM" src="https://user-images.githubusercontent.com/73197190/204050666-33fb1284-1f3c-4a8f-915b-4ec4748fe9c1.png">
 
-Carbon free websites track and monitor real time electricity and emissions using the Cloud Jewels formula adjusted for grid carbon intensity of back-end cpu processing when publishing new pages.
+Carbon free websites track and monitor real time electricity and emissions using the Cloud Jewels formula adjusted for grid carbon intensity of back-end cpu processing when publishing and editing new pages.
