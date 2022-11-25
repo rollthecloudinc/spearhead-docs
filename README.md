@@ -2,7 +2,7 @@
 
 # Summary
 
-This project is a distro of [SPeaRhead](https://github.com/rollthecloudinc/spearhead) for building carbon free documentation focused websites that look nearly identical to the [Green Web Foundations](https://learn.greensoftware.foundation/) documentation websites. 
+This project is a distro of [SPeaRhead](https://github.com/rollthecloudinc/spearhead) for building carbon free documentation focused websites that look nearly identical to the [Green Web Foundation](https://learn.greensoftware.foundation/) documentation websites. 
 
 Carbon free websites are built by combining [HEDGE](https://github.com/rollthecloudinc/hedge) with [Quell](https://github.com/rollthecloudinc/quell) aka: SPeaRhead. Carbon free websites will also combine front and back end emissions with a call to action to contribute to offseting. Carbon free websites also use the very well known [TailWindCSS](https://tailwindcss.com/) utility lib making theming a pleasure and breeze.
 
