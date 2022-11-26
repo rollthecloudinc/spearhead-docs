@@ -33,10 +33,10 @@ export const environment = {
     endpointUrl: "https://vertigo.druidcloud.dev/rollthecloudinc/spearhead-docs-objects/shapeshifter"
   },
   mediaSettings: {
-    endpointUrl: 'https://vertigo.druidcloud.dev/spearhead-docs/media',
+    endpointUrl: "https://vertigo.druidcloud.dev/rollthecloudinc/spearhead-docs-objects/media",
     cloudinaryUrl: 'https://api.cloudinary.com/v1_1/dj4vvkgzw',
     uploadPreset: 'i0hm4opm',
-    imageUrl: 'https://vertigo.druidcloud.dev/spearhead-docs',
+    imageUrl: "https://vertigo.druidcloud.dev/rollthecloudinc/spearhead-docs-objects",
     bucket: 'classifieds-ui-dev',
     prefix: 'media/'
   },
