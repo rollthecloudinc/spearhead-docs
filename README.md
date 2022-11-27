@@ -7,6 +7,7 @@ Spearhead Docs is a starter kit to bootstrap sustainable documentation that foll
 # Features
 
 * Low Energy
+* SEO Friendly
 * High Availability Low Latency
 * In Place Editor
 * SCI Tracking
@@ -18,6 +19,10 @@ Spearhead Docs is a starter kit to bootstrap sustainable documentation that foll
 ## Low Energy
 
 Spearhead docs run completely in the browser without any additional page loads unless publishing or editing new pages. Builders can optionally disable JavaScript for deployment adding to sustainability of Spearhead Docs websites.
+
+## SEO Friendly
+
+Spearhead Docs pages are pre-rendered on the server as HTML. Initial page loads include the physical HTML right on the page. Subsequent page changes run completely in the browser without additional network requests. 
 
 ## High Availability Low Latency
 
