@@ -2,11 +2,14 @@
 
 # Features
 
+* Low Energy
+* High Availability Low Latency
 * In Place Editor
 * SCI Tracking
   * Back-end
   * Front-End
 * Dev Tools Styling
+* Carbon Awareness
 
 ## Low Energy
 
