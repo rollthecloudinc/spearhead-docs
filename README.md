@@ -55,7 +55,7 @@ Spearhead Docs are backed by our award winning clean energy carbon aware data st
 
 ## Application Embedding
 
-Outside applications can be natively embedded into pages using web pack 5 module federation. Devs can created micro-frontends that deomonstrate features which can then be hosted inside pages without an iframe.
+Outside applications can be natively embedded into pages using web pack 5 module federation. Devs can create micro-frontends that deomonstrate features which can then be hosted inside pages without an iframe. Spearhead Docs is an native orchestration platform for micro-frontends.
 
 <img width="1440" alt="Screen Shot 2022-11-26 at 8 56 49 PM" src="https://user-images.githubusercontent.com/73197190/204115805-99ff3750-3a9a-45f5-ae9b-8ae7ece3af2f.png">
 
