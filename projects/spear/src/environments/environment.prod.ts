@@ -34,7 +34,7 @@ export const environment = {
     endpointUrl: 'https://edge.hedge.earth/octostore/rollthecloudinc/spearhead-docs-objects-prod/media',
     cloudinaryUrl: 'https://api.cloudinary.com/v1_1/dj4vvkgzw',
     uploadPreset: 'i0hm4opm',
-    imageUrl: 'https://edge.hedge.earth/octostore/rollthecloudinc/spearhead-docs-prod',
+    imageUrl: 'https://edge.hedge.earth/octostore/rollthecloudinc/spearhead-docs-objects-prod',
     bucket: 'classifieds-ui-prod',
     prefix: 'media/'
   },
