@@ -15,6 +15,7 @@ Spearhead Docs is a starter kit to bootstrap sustainable documentation that foll
   * Front-End
 * Dev Tools Styling
 * Carbon Awareness
+* Application Embedding
 
 ## Low Energy
 
@@ -51,5 +52,12 @@ Spearhead Docs are styled using Tail Wind CSS. Browser dev tools can be used to 
 ## Carbon Awareness – [HEDGE](https://github.com/rollthecloudinc/hedge)
 
 Spearhead Docs are backed by our award winning clean energy carbon aware data store. The cpu processing for page saves occurs on the aws data center available within an energy grid with the lowest carbon intensity.
+
+## Application Embedding
+
+Outside applications can be natively embedded into pages using web pack 5 module federation. Devs can created micro-frontends that deomonstrate features which can then be hosted inside pages without an iframe.
+
+<img width="1440" alt="Screen Shot 2022-11-26 at 8 56 49 PM" src="https://user-images.githubusercontent.com/73197190/204115805-99ff3750-3a9a-45f5-ae9b-8ae7ece3af2f.png">
+
 
 
