@@ -22,7 +22,7 @@ Spearhead docs run completely in the browser without any additional page loads u
 
 ## SEO Friendly
 
-Spearhead Docs pages are pre-rendered on the server as HTML. Initial page loads include the physical HTML right on the page. Subsequent page changes run completely in the browser without additional network requests. 
+Spearhead Docs pages are pre-rendered on the server as HTML. Initial page loads include the physical HTML right on the page. Subsequent page changes run completely in the browser without additional network requests. The data used to generate pages is compiled directly into the source code to neautralize network traffic during a continuous reading session.
 
 ## High Availability Low Latency
 
