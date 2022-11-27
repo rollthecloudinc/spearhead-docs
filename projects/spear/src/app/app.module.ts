@@ -131,7 +131,7 @@ export function markedOptionsFactory(): MarkedOptions {
     EffectsModule.forRoot([]),
     BridgeModule,
     StateModule,
-    MaterialModule,
+    // MaterialModule,
     UtilsModule,
     // LoggingModule,
     TokenModule,
