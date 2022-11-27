@@ -160,7 +160,7 @@ export function markedOptionsFactory(): MarkedOptions {
     RefineryModule,
     SheathModule,
     NgxDropzoneModule,
-    ReactModule,
+    // ReactModule,
     PagesModule,
     OrdainModule,
     DparamModule,
