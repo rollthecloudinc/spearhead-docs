@@ -52,7 +52,9 @@ Spearhead Docs are styled using Tail Wind CSS. Browser dev tools can be used to 
 
 ## Carbon Awareness – [HEDGE](https://github.com/rollthecloudinc/hedge)
 
-Spearhead Docs are backed by our award winning clean energy carbon aware data store. The cpu processing for page saves occurs on the aws data center available within an energy grid with the lowest carbon intensity.
+Spearhead Docs are backed by our award winning clean energy carbon aware data store HEDGE.
+
+![carbonhack_cert](https://user-images.githubusercontent.com/73197190/204116115-a60ea43d-6d50-4741-ab0e-97c58355f96d.png)
 
 ## Application Embedding
 
