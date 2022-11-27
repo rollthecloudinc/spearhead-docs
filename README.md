@@ -16,6 +16,7 @@ Spearhead Docs is a starter kit to bootstrap sustainable documentation that foll
 * Dev Tools Styling
 * Carbon Awareness
 * Application Embedding
+# Transparency
 
 ## Low Energy
 
@@ -58,6 +59,15 @@ Spearhead Docs are backed by our award winning clean energy carbon aware data st
 Outside applications can be natively embedded into pages using web pack 5 module federation. Devs can create micro-frontends that deomonstrate features which can then be hosted inside pages without an iframe. Spearhead Docs is an native orchestration platform for micro-frontends.
 
 <img width="1440" alt="Screen Shot 2022-11-26 at 8 56 49 PM" src="https://user-images.githubusercontent.com/73197190/204115805-99ff3750-3a9a-45f5-ae9b-8ae7ece3af2f.png">
+
+## Transparency
+
+Roll the Coud web site front-end carbon emissions are publicly reported using statsy.
+
+https://statsy.com/share/spearhead-docs.carbonfreed.app/co2?from=1669509927&to=1669514756&type=all-time
+
+<img width="1440" alt="Screen Shot 2022-11-26 at 9 07 25 PM" src="https://user-images.githubusercontent.com/73197190/204116069-c6c3e32e-b7d0-484a-babb-ad2acb5dc02e.png">
+
 
 
 
