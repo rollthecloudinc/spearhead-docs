@@ -1,5 +1,9 @@
 <img width="1440" alt="Screen Shot 2022-11-25 at 2 51 48 PM" src="https://user-images.githubusercontent.com/73197190/204049889-62202d1c-fe3a-4a72-9722-7dc5c497e304.png">
 
+# Summary
+
+Spearhead Docs is a starter kit to bootstrap sustainable documentation that follows the Green Web Foundation documentation theme. Spearhead Docs also track back and front end SCI. Emissions are provided in the header alongside for readers to contribute ofsetting of emissions.
+
 # Features
 
 * Low Energy
