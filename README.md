@@ -17,6 +17,7 @@ Spearhead Docs is a starter kit to bootstrap sustainable documentation that foll
 * Carbon Awareness
 * Application Embedding
 * Transparency
+* Github Native
 
 ## Low Energy
 
@@ -70,6 +71,9 @@ https://statsy.com/share/spearhead-docs.carbonfreed.app/co2?from=1669509927&to=1
 
 <img width="1440" alt="Screen Shot 2022-11-26 at 9 07 25 PM" src="https://user-images.githubusercontent.com/73197190/204116069-c6c3e32e-b7d0-484a-babb-ad2acb5dc02e.png">
 
+## Github Native
+
+Github is used extensively for Roll the Cloud enterprise apps. We store data in object repos. We achieve automation using Github Actions for continuous deployments. All code is open source and available on Github. Spearhead Docs deployments can also be hosted on Github Pages free of costs without sacrificing latency or availability.
 
 
 
