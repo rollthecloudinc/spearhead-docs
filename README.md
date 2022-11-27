@@ -18,7 +18,7 @@ Spearhead Docs run on CDNs. The presentation website runs on Azure Static Web Ap
 
 ## In Place Editor – [Quell](https://github.com/rollthecloudinc/quell)
 
-Publish and edit pages directly in the browser without additional page loads never leaving the site.
+Publish and edit pages directly in the browser without additional page loads never leaving the site. Publising and editing is disabled for production deployments that opt into running the site without JavaScript.
 
 <img width="1440" alt="Screen Shot 2022-11-25 at 3 04 31 PM" src="https://user-images.githubusercontent.com/73197190/204050666-33fb1284-1f3c-4a8f-915b-4ec4748fe9c1.png">
 
