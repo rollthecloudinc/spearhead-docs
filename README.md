@@ -8,6 +8,10 @@
   * Front-End
 * Dev Tools Styling
 
+## Low Energy
+
+Spearhead docs run completely in the browser without any additional page loads unless publishing or editing new pages. Builders can optionally disable JavaScript for deployment adding to sustainability of Spearhead Docs websites.
+
 ## In Place Editor – [Quell](https://github.com/rollthecloudinc/quell)
 
 Publish and edit pages directly in the browser without additional page loads never leaving the site.
