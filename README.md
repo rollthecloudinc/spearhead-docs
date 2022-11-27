@@ -2,7 +2,7 @@
 
 # Summary
 
-Spearhead Docs is a starter kit to bootstrap sustainable documentation that follows the Green Web Foundation documentation theme. Spearhead Docs also track back and front end SCI. Emissions are provided in the header alongside for readers to contribute offsetting of emissions. New documentation pages can be published and edited directly in the browser without additional page load never leaving the website.
+Spearhead Docs is a starter kit to bootstrap sustainable documentation that follows the Green Software Foundation documentation theme. Spearhead Docs also track back and front end SCI. Emissions are provided in the header alongside for readers to contribute offsetting of emissions. New documentation pages can be published and edited directly in the browser without additional page load never leaving the website.
 
 # Features
 
