@@ -26,6 +26,12 @@ Publish and edit pages directly in the browser without additional page loads nev
 
 <img width="1440" alt="Screen Shot 2022-11-25 at 3 04 31 PM" src="https://user-images.githubusercontent.com/73197190/204050666-33fb1284-1f3c-4a8f-915b-4ec4748fe9c1.png">
 
+## SCI 
+
+Tracks both front-end and back-end emissions. Logs SCI inside AWS Open Search. Once in open search data can be analyzed for opporunities to reduce emissions and purchase offsets.
+
+<img width="1440" alt="Screen Shot 2022-11-15 at 7 08 47 AM" src="https://user-images.githubusercontent.com/73197190/204052881-d8e6ab2c-957f-4078-a363-26a612850b0f.png">
+
 
 
 
