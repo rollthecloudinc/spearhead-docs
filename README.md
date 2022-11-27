@@ -9,7 +9,7 @@ Spearhead Docs is a starter kit to bootstrap sustainable documentation that foll
 * Low Energy
 * SEO Friendly
 * High Availability Low Latency
-* In Place Editor
+* In Place Editing
 * SCI Tracking
   * Back-end
   * Front-End
@@ -31,7 +31,7 @@ Spearhead Docs pages are pre-rendered on the server as HTML. Initial page loads 
 
 Spearhead Docs run on CDNs. The presentation website runs on Azure Static Web Apps with enterprise grade edge enabled. However, the docs can be hosted on any CDN – aws, cloudflare, github, gitlab, etc.
 
-## In Place Editor – [Quell](https://github.com/rollthecloudinc/quell)
+## In Place Editing – [Quell](https://github.com/rollthecloudinc/quell)
 
 Publish and edit pages directly in the browser without additional page loads never leaving the site. 
 
