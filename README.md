@@ -22,7 +22,7 @@ Carbon free websites track and monitor real time electricity and emissions using
 
 ## In Place Editor – [Quell](https://github.com/rollthecloudinc/quell)
 
-Edit pages directly in the browser without additional page loads never leaving the site.
+Publish and edit pages directly in the browser without additional page loads never leaving the site.
 
 <img width="1440" alt="Screen Shot 2022-11-25 at 3 04 31 PM" src="https://user-images.githubusercontent.com/73197190/204050666-33fb1284-1f3c-4a8f-915b-4ec4748fe9c1.png">
 
