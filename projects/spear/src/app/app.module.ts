@@ -147,7 +147,7 @@ export function markedOptionsFactory(): MarkedOptions {
     PanelsModule,
     RenderModule,
     PagealiasModule,
-    FormlyModule,
+    // FormlyModule,
     TransformModule,
     AwcogModule,
     KeyvalModule,
