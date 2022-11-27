@@ -16,7 +16,7 @@ Spearhead Docs is a starter kit to bootstrap sustainable documentation that foll
 * Dev Tools Styling
 * Carbon Awareness
 * Application Embedding
-# Transparency
+* Transparency
 
 ## Low Energy
 
