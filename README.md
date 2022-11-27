@@ -16,7 +16,7 @@ Publish and edit pages directly in the browser without additional page loads nev
 
 ## SCI – Software Carbon Intensity Tracking
 
-Tracks both front and back end emissions. Logs back-end SCI inside AWS Open Search. Once in open search data can be analyzed for opporunities to reduce emissions and purchase offsets.
+Tracks both front and back end emissions. Logs back-end SCI inside AWS Open Search. Once in open search data can be analyzed for opporunities to reduce emissions and purchase offsets. Users can contribute to offset of Spearhead Docs deployments emissions by using the contribute button within the header of every site.
 
 <img width="1440" alt="Screen Shot 2022-11-15 at 7 08 47 AM" src="https://user-images.githubusercontent.com/73197190/204052881-d8e6ab2c-957f-4078-a363-26a612850b0f.png">
 
