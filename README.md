@@ -12,6 +12,10 @@
 
 Spearhead docs run completely in the browser without any additional page loads unless publishing or editing new pages. Builders can optionally disable JavaScript for deployment adding to sustainability of Spearhead Docs websites.
 
+## High Availability Low Latency
+
+Spearhead Docs run on CDNs. The presentation website runs on Azure Static Web Apps with enterprise grade edge enabled. However, the docs can be hosted on any CDN – aws, cloudflare, github, gitlab, etc.
+
 ## In Place Editor – [Quell](https://github.com/rollthecloudinc/quell)
 
 Publish and edit pages directly in the browser without additional page loads never leaving the site.
