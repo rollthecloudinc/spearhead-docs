@@ -34,6 +34,8 @@ Tracks both front and back end emissions. Logs back-end SCI inside AWS Open Sear
 
 Spearhead Docs are styled using Tail Wind CSS. Browser dev tools can be used to add Tail Wind CSS classes to customize pages. Classes added within the dev tools are retained and applied to future page loads. 
 
+# Carbon Awareness – [HEDGE](https://github.com/rollthecloudinc/hedge)
 
+Spearhead Docs are backed by our award winning clean energy carbon aware data store. The cpu processing for page saves occurs on the aws data center available within an energy grid with the lowest carbon intensity.
 
 
