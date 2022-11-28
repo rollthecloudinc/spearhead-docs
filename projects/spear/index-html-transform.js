@@ -1,6 +1,6 @@
 const parser = require('node-html-parser');
 module.exports = (opt, indexHtml) => {
-  if (!opt.configuration || opt.configuration === null || configuration === '') {
+  if (typeof(opt.configuration) === 'undefined') {
     return indexHtml;
   } else {
     const root = parser.parse(indexHtml);
