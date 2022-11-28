@@ -1,6 +1,14 @@
-module.exports = (targetOptions, indexHtml) => {
-  // const i = indexHtml.indexOf('</body>');
-  // const config = `<p>Configuration: ${targetOptions.configuration}</p>`;
-  const strippedScripts = indexHtml.replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi);
-  return strippedScripts;
+const parser = require('node-html-parser');
+module.exports = (opt, indexHtml) => {
+  if (!opt.configuration || opt.configuration === null || configuration === '') {
+    return indexHtml;
+  } else {
+    const root = parser.parse(indexHtml);
+    root.querySelectorAll('script').forEach(n => {
+      if (n.toString().indexOf('data-retain') === -1) {
+        n.remove();
+      }
+    });
+    return root.toString();
+  }
 };
