@@ -23,6 +23,8 @@ Spearhead Docs is a starter kit to bootstrap sustainable documentation that foll
 
 Spearhead docs run completely in the browser without any additional page loads unless publishing or editing new pages. Builders can optionally disable JavaScript for deployment adding to sustainability of Spearhead Docs websites.
 
+Pure static with Angular removed Beacon score.
+
 <img width="1440" alt="Screen Shot 2022-11-28 at 7 19 07 PM" src="https://user-images.githubusercontent.com/73197190/204410728-4f091ce9-2e94-497c-87b7-45d0c2d67290.png">
 
 ## SEO Friendly
