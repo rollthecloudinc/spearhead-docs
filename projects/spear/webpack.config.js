@@ -4,6 +4,7 @@ const path = require("path");
 const share = mf.share;
 const tailwindcss = require('tailwindcss');
 const autoprefixer = require('autoprefixer');
+const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 
 const sharedMappings = new mf.SharedMappings();
 sharedMappings.register(
@@ -29,6 +30,7 @@ module.exports = {
   plugins: [
     tailwindcss,
     autoprefixer,
+    new BundleAnalyzerPlugin(),
     new ModuleFederationPlugin({
         library: { type: "module" },
 
