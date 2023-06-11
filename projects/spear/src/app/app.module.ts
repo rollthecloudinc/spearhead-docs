@@ -1,4 +1,4 @@
-import { BrowserModule, BrowserTransferStateModule } from '@angular/platform-browser';
+import { BrowserModule, provideClientHydration /*, BrowserTransferStateModule */ } from '@angular/platform-browser';
 import { NgModule, APP_INITIALIZER,  SecurityContext, PLATFORM_ID } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HttpClientModule, HTTP_INTERCEPTORS, HttpClientJsonpModule } from '@angular/common/http';
@@ -95,7 +95,7 @@ export function markedOptionsFactory(): MarkedOptions {
     CommonModule,
     HttpClientModule,
     HttpClientJsonpModule,
-    BrowserTransferStateModule ,
+    // BrowserTransferStateModule ,
     FormsModule,
     ReactiveFormsModule,
     BrowserAnimationsModule,
@@ -110,7 +110,7 @@ export function markedOptionsFactory(): MarkedOptions {
       },
     }),
     // NbA11yModule.forRoot(),
-    RouterModule.forRoot(routes, { initialNavigation: 'enabled', relativeLinkResolution: 'legacy' }),
+    RouterModule.forRoot(routes, { initialNavigation: 'enabledBlocking' /*, relativeLinkResolution: 'legacy' */ }),
     !environment.production ? StoreDevtoolsModule.instrument({
       maxAge: 25,
       logOnly: environment.production
@@ -167,6 +167,7 @@ export function markedOptionsFactory(): MarkedOptions {
     DetourModule
   ],
   providers: [
+    provideClientHydration(),
     CatchAllGuard,
     { provide: SITE_NAME, useValue: environment.site },
     { provide: CLIENT_SETTINGS, useValue: new ClientSettings(environment.clientSettings) },
