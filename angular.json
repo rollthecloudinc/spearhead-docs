@@ -156,7 +156,6 @@
           },
           "configurations": {
             "prod": {
-              "bundleDependencies": true,
               "fileReplacements": [
                 {
                   "replace": "projects/spear/src/environments/environment.ts",
@@ -167,7 +166,6 @@
               "optimization": true
             },
             "dev": {
-              "bundleDependencies": true,
               "fileReplacements": [
                 {
                   "replace": "projects/spear/src/environments/environment.ts",
