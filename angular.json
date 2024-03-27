@@ -35,7 +35,7 @@
               "node_modules/prismjs/themes/prism-okaidia.css"
             ],
             "scripts": [
-              "node_modules/marked/lib/marked.js",
+              "node_modules/marked/bin/marked.js",
               "node_modules/prismjs/prism.js",
               "node_modules/prismjs/components/prism-json.min.js",
               "node_modules/prismjs/components/prism-typescript.min.js",
@@ -50,7 +50,6 @@
             "customWebpackConfig": {
               "path": "projects/spear/webpack.config.js"
             },
-            "indexTransform": "projects/spear/index-html-transform.js",
             "commonChunk": false
           },
           "configurations": {
@@ -157,7 +156,6 @@
           },
           "configurations": {
             "prod": {
-              "bundleDependencies": true,
               "fileReplacements": [
                 {
                   "replace": "projects/spear/src/environments/environment.ts",
@@ -168,7 +166,6 @@
               "optimization": true
             },
             "dev": {
-              "bundleDependencies": true,
               "fileReplacements": [
                 {
                   "replace": "projects/spear/src/environments/environment.ts",
